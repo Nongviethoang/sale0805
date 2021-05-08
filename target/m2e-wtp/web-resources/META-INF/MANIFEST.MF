@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: ADMIN
+Build-Jdk: 15.0.1
+Implementation-Title: app1
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.haui
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/SaleLaptop
+Created-By: Maven Integration for Eclipse
+
